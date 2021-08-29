@@ -6,7 +6,7 @@ Kurius SE Hackathon Project
 
 ## *Goal*: Creating a game-based mobile application to motivate people to learn more about Indigenous Territory.
 ## [*Where Am I* FIGMA](https://www.figma.com/proto/VmjRdtVU0Ygs2LAPKssmtX/Kurius-Hack-Prototype?node-id=18%3A6&scaling=scale-down&page-id=0%3A1&starting-point-node-id=18%3A6)
-## [*Where Am I* GitHub Repository](https://github.com/ABMP-E)
+## [*Where Am I* GitHub Repository](https://github.com/ABMP-E/Where-Am-I)
 
 ### The Motivation Behind This Project
 
