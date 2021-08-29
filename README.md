@@ -1,7 +1,7 @@
 # Where-Am-I
 Kurius SE Hackathon Project
 
-# ![Logo]()
+# ![Logo](https://github.com/ABMP-E/Where-Am-I/blob/main/assets/logo.jpg)
 ## __*Where Am I* By ABMP Environmentalists__
 
 ## *Goal*: Creating a game-based mobile application to motivate people to learn more about Indigenous Territory.
