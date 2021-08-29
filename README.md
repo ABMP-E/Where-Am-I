@@ -51,7 +51,7 @@ ___
 
 ### Challenges We Encountered
 
-All of us are new to application designing and we faced a little, if not huge, challenge in doing so. Firstly, none of us had any experience in App Development and were not able to make our app realistic; therefore, we chose to use Figma to create our application prototype which can present our ideas in a delicate fashion. Furthermore, deciding rewards for users, which are not only worth earning for the users but also not expensive items considering they come under a Non-Profit Organization, was a really difficult task.
+All of us are new to application designing and we faced a little, if not huge, challenge in doing so. Firstly, none of us had any experience in App Development and were not able to make our app realistic; therefore, we chose to use Figma to create our application prototype which can present our ideas in a delicate fashion. Along with Figma, we also used Flask. Furthermore, deciding rewards for users, which are not only worth earning for the users but also not expensive items considering they come under a Non-Profit Organization, was a really difficult task.
 
 ___
 
